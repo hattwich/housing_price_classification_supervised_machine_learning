@@ -10,8 +10,8 @@ Creating an algoritm for classifying wehether a house is expensive or not:
 * evaluating their performance
 
 #### methods
-pipelines
-Gridsearch
-DecisionTreeClassifier
-KNeighborsClassifier
-RandomForestClassifier
+pipelines\
+Gridsearch\
+DecisionTreeClassifier\
+KNeighborsClassifier\
+RandomForestClassifier\
